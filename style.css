@@ -414,6 +414,9 @@ button{
         margin-top: 10px;
         font-size: 20px;
     }
+.project-content  .box a{
+    color: #031ca7;
+}
 .project-content  .box .text{
     
         display: justify;
